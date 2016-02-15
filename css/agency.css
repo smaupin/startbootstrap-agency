@@ -760,3 +760,6 @@ section#clients {
 footer {
   background-color: rgb(112, 153, 174);
 }
+.portfolio-modal img {
+max-width: 600
+}
