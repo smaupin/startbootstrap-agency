@@ -768,3 +768,9 @@ footer {
 .portfolio-modal img {
   max-width: 600
 }
+.def-off {
+  display: none;
+}
+.SYI-Colors {
+  text-align: left;
+}
